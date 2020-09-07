@@ -1,1 +1,1 @@
-Developed while Staking up CSS course.
+Developed as instructed while taking up CSS course in O'Rielly.
